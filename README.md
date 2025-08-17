@@ -69,7 +69,7 @@ Here’s a preview of the app interface (Dataset Page):
    ```
 3. Run the app locally  
    ```bash
-   streamlit run app.py
+   streamlit run LoanApprovalPredictor.py
    ```
 
 ---
